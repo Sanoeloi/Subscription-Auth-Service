@@ -128,5 +128,5 @@ You can use Postman or Swagger to test the endpoints.
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Priyanka S  
 Contributions welcome!
